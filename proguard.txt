@@ -1,4 +1,5 @@
 java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String java.lang.String.toString()' on a null object reference
                                                                             at com.ocnt.liveapp.activity.c.a(LiveUIActivity.java:907)
  
-吃饭了吗   have you eat
+吃饭了吗   have you eat  
+is changed!
